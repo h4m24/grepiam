@@ -1,0 +1,4 @@
+{
+    "id": "jenkins-production-fra",
+    "machine_iam_role": "iam-jenkins"
+}
